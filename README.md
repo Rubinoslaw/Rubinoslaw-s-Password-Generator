@@ -1,2 +1,2 @@
-# Rubinos-aw-s-Password-Generator
+# Rubinoslaw-s-Password-Generator
 Rubinosław's Password Generator
