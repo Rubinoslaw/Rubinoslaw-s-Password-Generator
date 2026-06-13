@@ -1,6 +1,7 @@
 # Rubinosław's Password Generator
 
-Here you go! Here's a calculator - "Rubinosław's Basic Calculator"! You caan generate a password with chosen by you amount of characters.
+Here you go! Here's a calculator - "Rubinosław's Basic Calculator"! You can generate a password with chosen by you amount of characters.
 
-
+# GUI of R'sPG
+![alt text](https://github.com/Rubinoslaw/Rubinoslaw-s-Password-Generator/blob/main/Screenshot%20from%202026-06-13%2022-03-01.png)
 
